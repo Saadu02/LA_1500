@@ -49,6 +49,8 @@ Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von de
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![image](https://user-images.githubusercontent.com/111046257/220876353-7c1ba81d-2bd5-474a-b3f2-a25758d10fca.png)
+
 
 ## 2 Planen
 
