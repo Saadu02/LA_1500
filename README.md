@@ -2,13 +2,12 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 Tower defence. 
-✍️ Gruppename:heliotropium
+heliotropium
   Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |23.02.2023| 0..01     |Entscheidung getroffen wie unsere Thema lautet. |
 |       | 1.0.0   |                                                              |
 
@@ -19,7 +18,6 @@ Tower defence.
 Tower defence: Stellverteidigung um deine Basis zu schützen. 
 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von den Hauptperson zu kommen und die Hauptperson muss das verhindern, in dem er sich verteidigt und den Gegner töte.
 
 
@@ -38,7 +36,6 @@ Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von de
 | 7  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
 | 8  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
