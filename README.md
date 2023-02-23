@@ -2,8 +2,8 @@
 
 
 ## Tower defence. 
-Gruppenname: Heliotrope
- Mitglieder: Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
+Gruppe Heliotrope
+Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
 
 
 | Datum | Version | Zusammenfassung                                              |
