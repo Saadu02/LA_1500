@@ -50,7 +50,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 ![image](https://user-images.githubusercontent.com/111046257/220876770-4f72536c-3310-44da-9a93-72f0e3d8db4d.png)
-<img width="288" alt="image" src="https://user-images.githubusercontent.com/111045600/220881820-2a36ce1c-56c5-43d7-8180-233d7f8d1f45.png">
+
 
 
 
