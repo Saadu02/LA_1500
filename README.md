@@ -35,6 +35,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 7  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
 | 8  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
 | 9  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
+| 10 |kann| Fukional| Als ein Spieler moöchte ich verschiedene Niveau aussuchen, damit das Spiel interesanter wirkt.||
 
 
 ### 1.3 Testfälle
