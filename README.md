@@ -17,9 +17,12 @@ Tower defence.
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Tower defence: Stellverteidigung um deine Basis zu schützen. 
 
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von den Hauptperson zu kommen und die Hauptperson muss das verhindern, in dem er sich verteidigt und den Gegner töte.
+
 
 ### 1.2 User Stories
 
