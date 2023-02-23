@@ -18,7 +18,7 @@ heliotropium
 Tower defence: Stellverteidigung um deine Basis zu schützen. 
 
 
-Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von den Hauptperson zu kommen und die Hauptperson muss das verhindern, in dem er sich verteidigt und den Gegner töte.
+Die Hauptperson muss seine Base beschützen. Die Gegner versucht die Base von den Hauptperson zu kommen und zu zerstören. Um das zu verhindern muss die Hauptperson sein Base verteidigen und im dem selben Zeit den Gegner töten. Die Hauptperson kann auswählen, wo sein Tower platzieren kann. Er kann so viel Türme platzieren, wie er will. Danach kann er bei dem Gegner zielen und abschiessen. Das alles Programmieren wir im Unity.
 
 
 ### 1.2 User Stories
