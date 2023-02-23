@@ -16,7 +16,6 @@ Tower defence.
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 Tower defence: Stellverteidigung um deine Basis zu schützen. 
 
 
@@ -28,8 +27,16 @@ Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von de
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |muss|Qualität| Als ein Spieler möchte ich dass das Spiel sauber läuft, damit die erfahrung besser ist.|
+| 2  |muss|Funktional|Als ein Spieler möchte ich dass das spiel wenig bugs hat, damit das Spiel spielbar ist.|
+| 2.1  |muss|Funktional|Als ein Spieler möchte ich Towers fuktional plazieren können, damit das spiel nicht zu einfach oder zu schwer wird.|
+| 3  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das spiel spass macht.|
+| 4  |muss|Funktional|Als ein spieler möchte ich interessantes gameplay, damit ich ein grund habe, das Spiel zu spielen.|
+| 5  |muss|Qualität|Als ein Spieler möchte ich meine Towers unterschieden können, damit ich sie nicht verwechsle.|
+| 5.1  |muss|Qualität|Als ein Spieler möchte ich die gegner auch unterscheiden können, damit ich meine attacken fokussieren kann.|
+| 6  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
+| 7  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
+| 8  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
