@@ -53,6 +53,9 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 
 
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/111045600/220882164-ed35f0b2-8945-441f-9bf6-09a9e7359acf.png">
+
+
 
 
 ## 2 Planen
