@@ -2,12 +2,14 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 Tower defence. 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+✍️ Gruppename:heliotropium
+  Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
+
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|23.02.2023| 0..01     |Entscheidung getroffen wie unsere Thema lautet. |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -15,6 +17,7 @@ Tower defence.
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
