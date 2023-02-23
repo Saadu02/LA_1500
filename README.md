@@ -30,11 +30,11 @@ Die Hauptperson muss seine Base beschützen. Die Gegner versucht den Base von de
 | 2.1  |muss|Funktional|Als ein Spieler möchte ich Towers fuktional plazieren können, damit das spiel nicht zu einfach oder zu schwer wird.|
 | 3  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das spiel spass macht.|
 | 4  |muss|Funktional|Als ein spieler möchte ich interessantes gameplay, damit ich ein grund habe, das Spiel zu spielen.|
-| 5  |muss|Qualität|Als ein Spieler möchte ich meine Towers unterschieden können, damit ich sie nicht verwechsle.|
-| 5.1  |muss|Qualität|Als ein Spieler möchte ich die gegner auch unterscheiden können, damit ich meine attacken fokussieren kann.|
-| 6  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
-| 7  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
-| 8  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
+| 5  |muss|Qualität|Als ein Spieler möchte ich meine Tower unterschieden können, damit ich sie nicht verwechsle.|
+| 6  |muss|Funktional|Als ein Spieler möchte ich das meine Tower präzise die gegner treffen, damit das spiel nicht unfair wird.|
+| 7  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
+| 8  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
+| 9  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
 
 
 ### 1.3 Testfälle
