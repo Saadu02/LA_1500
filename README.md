@@ -2,8 +2,8 @@
 
 
 ## Tower defence. 
-heliotropium
-  Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
+Gruppenname: Heliotrope
+ Mitglieder: Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
 
 
 | Datum | Version | Zusammenfassung                                              |
