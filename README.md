@@ -46,6 +46,19 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+| 1 |Das Spiel wird gestartet| Spieler spielt |Das Spiel funktioniert einwandfrei|
+| 2 |Spieler spielt weiter| Spieler platziert ein Turm| Spieler kann den Turm platzieren ohne Probleme|
+| 3  |Spieler spielt weiter| Spieler legt viele Türme |Die Türme müssen platziert sein.|
+| 4  | |         |                   |
+| 5  | |         |                   |
+| 6  | Spiel geht weiter| Spieler legt verschiedene Türme |Verschiedene Türme platziert. |
+| 7  | Gegner kommen| Die Türmer fixieren den Gegner und schiesst | Gegner sind Tot|
+| 8  |Spiel startet|-| Schönen Ausblick in das Spiel|
+| 9  | Spieler spielt weiter| Spieler drückt Stopp taste/Symbol| Das Spiel wird gestoppt|
+| 10  |  Spieler spielt weiter |Spieler/ Türme schiesst Gegner |Zählt Punkte/Highscore|
+| 10.1|Kommt ans Ende des Spiels| Spieler spielt fertig |Highscore wird angezeigt|
+| 11  |Das Spiel wird gestartet| Spieler wählt Niveau aus| Das gewählte Niveau wird angezeigt und gespielt|
+| 12 | Das Spiel Shop wird angezeigt| Spieler kauft verschiede Skins | Spieler kann die neuen Skins ausprobieren. |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
