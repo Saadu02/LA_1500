@@ -39,7 +39,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 12 |kann|Qualität| Als Spieler möchte ich verschiedene Skins kaufen können, sodass es mehr abwechslung bei den Türmen gibt.|
 | 13 |kann|Qualität| Als Spieler möchte ich am Ende des Spiels mit einer Ingame-Währung Belohnt werden|
 | 14 |kann|Qualität| Als Spieler möchte ich verschiedene Maps auswählen, weil so das Spiel vielseitiger ist.|
-| 15 |kann|Funktional| Als Spielr möchte ich, dass meine Türme langsam an Leben verlieren, sodass das Spiel interaktiver ist.|
+| 15 |kann|Funktional| Als Spieler möchte ich, dass meine Türme langsam an Leben verlieren, sodass das Spiel interaktiver ist.|
 
 
 ### 1.3 Testfälle
