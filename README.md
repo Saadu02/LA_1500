@@ -90,7 +90,6 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 7  | 23.03.2023    |         | Stopp/pause Symbol programmieren| 20 min|
 | 8  | 23.03.2023|         | Anzahl Punkte Zählen  |25 min|
 | 8.A  |  23.03.2023 |         | Highscore soll angezeigt werden | 20 min|
-
 | 9  | 23.03.2023|         |Verschiedene Skins programmieren | 30 min|
 | 9.A  | 23.03.2023             |         | Diese Skins auch im Spiel verwendbar machen  |20 min|
 | 10  | 23.03.2023|         | Neue Runde programmieren | 25 min|
