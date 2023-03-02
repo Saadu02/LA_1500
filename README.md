@@ -47,22 +47,20 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1 |Das Spiel wird gestartet| Spieler spielt |Das Spiel funktioniert einwandfrei|
+| 1.1  |Spiel startet|Ein Menü taucht auf| Schönen Ausblick in das Spiel|
+| 1.2  |Das Spiel wird gestartet| Spieler wählt Niveau aus| Das gewählte Niveau wird angezeigt und gespielt|
 | 2 |Spieler spielt weiter| Spieler platziert ein Turm| Spieler kann den Turm platzieren ohne Probleme|
 | 3  |Spieler spielt weiter| Spieler legt viele Türme |Die Türme müssen platziert sein.|
-| 4  | |         |                   |
-| 5  | |         |                   |
-| 6  | Spiel geht weiter| Spieler legt verschiedene Türme |Verschiedene Türme platziert. |
-| 7  | Gegner kommen| Die Türmer fixieren den Gegner und schiesst | Gegner sind Tot|
-| 8  |Spiel startet|-| Schönen Ausblick in das Spiel|
-| 9  | Spieler spielt weiter| Spieler drückt Stopp taste/Symbol| Das Spiel wird gestoppt|
-| 10  |  Spieler spielt weiter |Spieler/ Türme schiesst Gegner |Zählt Punkte/Highscore|
-| 10.1|Kommt ans Ende des Spiels| Spieler spielt fertig |Highscore wird angezeigt|
-| 11  |Das Spiel wird gestartet| Spieler wählt Niveau aus| Das gewählte Niveau wird angezeigt und gespielt|
-| 12 | Das Spiel Shop wird angezeigt| Spieler kauft verschiede Skins | Spieler kann die neuen Skins ausprobieren. |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 4  |Spieler spielt weiter| Spieler plaziert türme abhängig von seiner Energie|spieler kann nicht weiter plazieren ohne genug Energie.|
+| 5  | Spiel ist bereit| Spieler ist jetzt bereit für die Gegner |das Spiel zeigt an, dass die Gegner jetzt angreifen werden. |
+| 6  | Gegner kommen| Die Türmer fixieren sich auf den Gegner und schiesst | Gegner sind Tot|
+| 7 | Spieler spielt weiter| Spieler drückt Stopp taste/Symbol| Das Spiel wird gestoppt|
+| 8  |  Spieler spielt weiter |Spieler/ Türme schiesst Gegner |Zählt Punkte/Highscore|
+| 8.1|Kommt ans Ende des Spiels| Spieler spielt fertig |Highscore wird angezeigt|
+| 8.2|Kommt ans Ende des Spiels| Spieler erhält Punkte |Spieler kann jetzt in den Shop gehen.| 
+| 9 | Das Spiel Shop wird angezeigt| Spieler kauft verschiede Skins | Spieler kann die neuen Skins ausprobieren. |
+| 9.1  |Spieler ist im shop|Spieler wählt Skins aus, die er sich leisten kann| Spieler kann jetzt Skins im Spiel benutzen|
+| 10  |Spieler spiel neue Runde|Spieler hat Skins gekauft|Die Skins werden korrekt angezeigt.|
 
 ### 1.4 Diagramme
 
