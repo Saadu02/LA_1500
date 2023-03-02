@@ -77,21 +77,21 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1  | 16.03.2023 | | Schauen das es einwandfrei funktioniert|50 min|
-|1.A | 09.03.2023 | | Menü programmieren | 30 min| 	
-| 1.B  | 16.03.2023|         | Niveaus programmieren| 30min |
-| 2  | 09.03.2023 |         | nur ein Turm Platzierung programmieren | 20 min|
-| 3  | 09.03.2023  |         | viele Türme Platzierung programmieren|20 min|
-| 4  | 09.03.2023|         | so programmieren das der Spieler nur Türme platzieren kann wenn er Energie hat.| 30 min|
-| 5   | 09.03.2023 |         | So Programmieren das es angezeigt wird, wenn Gegner angreifen. | 40 min|
-| 6  | 16.03.2023 |         | Programmieren das die Türmer auf den Gegner fixiert sind| 35 min|
-| 6.A | 16.03.2023 |         |So Programmieren damit die Gegner auch sterben, wenn sie abgestossen werden| 25 min|
-| 7  | 23.03.2023    |         | Stopp/pause Symbol programmieren| 20 min|
-| 8  | 23.03.2023|         | Anzahl Punkte Zählen  |25 min|
-| 8.A  |  23.03.2023 |         | Highscore soll angezeigt werden | 20 min|
-| 9  | 23.03.2023|         |Verschiedene Skins programmieren | 30 min|
-| 9.A  | 23.03.2023             |         | Diese Skins auch im Spiel verwendbar machen  |20 min|
-| 10  | 23.03.2023|         | Neue Runde programmieren | 25 min|
+| 1  | 16.03.2023 | Alle | Schauen das es einwandfrei funktioniert|50 min|
+|1.A | 09.03.2023 | Sathana | Menü programmieren | 30 min| 	
+| 1.B  | 16.03.2023| Joel | Niveaus programmieren| 30min |
+| 2  | 09.03.2023 | Joel | nur ein Turm Platzierung programmieren | 20 min|
+| 3  | 09.03.2023 | Joel | viele Türme Platzierung programmieren|20 min|
+| 4  | 09.03.2023| Alle | so programmieren das der Spieler nur Türme platzieren kann wenn er Energie hat.| 30 min|
+| 5   | 09.03.2023 | Alle | So Programmieren das es angezeigt wird, wenn Gegner angreifen. | 40 min|
+| 6  | 16.03.2023 | Alle | Programmieren das die Türmer auf den Gegner fixiert sind| 35 min|
+| 6.A | 16.03.2023 | Joel |So Programmieren damit die Gegner auch sterben, wenn sie abgestossen werden| 25 min|
+| 7  | 23.03.2023 | Alle | Stopp/pause Symbol programmieren| 20 min|
+| 8  | 23.03.2023| Sathana | Anzahl Punkte Zählen  |25 min|
+| 8.A  | 23.03.2023| Sathana | Highscore soll angezeigt werden | 20 min|
+| 9  | 23.03.2023| Kilian |Verschiedene Skins programmieren | 30 min|
+| 9.A  | 23.03.2023| Kilian| Diese Skins auch im Spiel verwendbar machen  |20 min|
+| 10  | 23.03.2023| Alle | Neue Runde programmieren | 25 min|
 
 
 Total: 
