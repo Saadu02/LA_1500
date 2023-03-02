@@ -3,13 +3,13 @@
 
 ## Tower defence. 
 Gruppe Heliotrope
-Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Kilian Adil.Staeuble
+Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Adil.Staeuble
 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.02.2023| 0..01     |Entscheidung getroffen wie unsere Thema lautet. |
-|       | 1.0.0   |                                                              |
+|23.02.2023| 0.0.1     |Entscheidung getroffen wie unsere Thema lautet. |
+|02.03.2023| 0.0.2  |Kapitel 1 bis 3 abgeschlossen|
 
 ## 1 Informieren
 
@@ -103,6 +103,8 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
+Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschiedene Türme auswählen und platzieren. Wir haben auch entschieden das wir einen Shop erstellen. So dass der Spieler seine Sachen kaufen kann, die er im Spiel mit Punkten erreicht hatte. Wir haben auch entschieden das der Spieler auch mehrere Schwierigkeiten wählen kann. 
 
 ## 4 Realisieren
 
