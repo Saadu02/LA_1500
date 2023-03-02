@@ -27,15 +27,19 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |muss|Qualität| Als ein Spieler möchte ich dass das Spiel sauber läuft, damit die erfahrung besser ist.|
 | 2  |muss|Funktional|Als ein Spieler möchte ich dass das spiel wenig bugs hat, damit das Spiel spielbar ist.|
-| 2.1  |muss|Funktional|Als ein Spieler möchte ich Towers fuktional plazieren können, damit das spiel nicht zu einfach oder zu schwer wird.|
-| 3  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das spiel spass macht.|
-| 4  |muss|Funktional|Als ein spieler möchte ich interessantes gameplay, damit ich ein grund habe, das Spiel zu spielen.|
-| 5  |muss|Qualität|Als ein Spieler möchte ich meine Tower unterschieden können, damit ich sie nicht verwechsle.|
-| 6  |muss|Funktional|Als ein Spieler möchte ich das meine Tower präzise die gegner treffen, damit das spiel nicht unfair wird.|
-| 7  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
-| 8  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
-| 9  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
-| 10 |kann| Fukional| Als ein Spieler moöchte ich verschiedene Niveau aussuchen, damit das Spiel interesanter wirkt.||
+| 3  |muss|Funktional|Als ein Spieler möchte ich Towers fuktional plazieren können, damit das spiel nicht zu einfach oder zu schwer wird.|
+| 4  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das spiel spass macht.|
+| 5  |muss|Funktional|Als ein spieler möchte ich interessantes gameplay, damit ich ein grund habe, das Spiel zu spielen.|
+| 6  |muss|Qualität|Als ein Spieler möchte ich, dass meine Türme unterschiedlich aussehen, sodass ich sie unterscheiden kann.|
+| 7  |muss|Funktional|Als ein Spieler möchte ich das meine Tower präzise die gegner treffen, damit das spiel nicht unfair wird.|
+| 8  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
+| 9  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
+| 10  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
+| 11 |kann|Fukional| Als ein Spieler moöchte ich verschiedene Schwierigkeiten aussuchen, damit das Spiel interesanter wirkt.|
+| 12 |kann|Qualität| Als Spieler möchte ich verschiedene Skins kaufen können, sodass es mehr abwechslung bei den Türmen gibt.|
+| 13 |kann|Qualität| Als Spieler möchte ich am Ende des Spiels mit einer Ingame-Währung Belohnt werden|
+| 14 |kann|Qualität| Als Spieler möchte ich verschiedene Maps auswählen, weil so das Spiel vielseitiger ist.|
+| 15 |kann|Funktional| Als Spielr möchte ich, dass meine Türme langsam an Leben verlieren, sodass das Spiel interaktiver ist.|
 
 
 ### 1.3 Testfälle
