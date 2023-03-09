@@ -114,8 +114,8 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 09.03.2023 | Sathana | 30 min | 90 min|
-| 2  | 09.03.2023 | Joel | 20 | 90 min|
-| 8.C | 09.03.2023 | Joel | 40 | 90 min|
+| 2  | 09.03.2023 | Joel | 20 min | 90 min|
+| 8.C | 09.03.2023 | Joel | 40 min | 90 min|
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
