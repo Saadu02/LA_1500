@@ -57,7 +57,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 7 | Spieler spielt weiter| Spieler drückt Stopp taste/Symbol| Das Spiel wird gestoppt|
 | 8  |  Spieler spielt weiter |Spieler/ Türme schiesst Gegner |Zählt Punkte/Highscore|
 | 8.1|Kommt ans Ende des Spiels| Spieler spielt fertig |Highscore wird angezeigt|
-| 8.2|Kommt ans Ende des Spiels| Spieler erhält Punkte |Spieler kann jetzt in den Shop gehen.| 
+| 8.2|Kommt ans Ende des Spiels| Spieler erhält Punkte |Spieler kann jetzt in den Shop gehen.| $
 | 9 | Das Spiel Shop wird angezeigt| Spieler kauft verschiede Skins | Spieler kann die neuen Skins ausprobieren. |
 | 9.1  |Spieler ist im shop|Spieler wählt Skins aus, die er sich leisten kann| Spieler kann jetzt Skins im Spiel benutzen|
 | 10  |Spieler spiel neue Runde|Spieler hat Skins gekauft|Die Skins werden korrekt angezeigt.|
@@ -78,7 +78,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1  | 16.03.2023 | Alle | Schauen das es einwandfrei funktioniert|50 min|
-|1.A | 09.03.2023 | Sathana | Menü programmieren | 30 min| 	
+| 1.A | 09.03.2023 | Sathana | Menü programmieren | 30 min| 	
 | 1.B  | 16.03.2023| Joel | Niveaus programmieren| 30min |
 | 2  | 09.03.2023 | Joel | nur ein Turm Platzierung programmieren | 20 min|
 | 3  | 09.03.2023 | Joel | viele Türme Platzierung programmieren|20 min|
@@ -89,9 +89,11 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 7  | 23.03.2023 | Alle | Stopp/pause Symbol programmieren| 20 min|
 | 8  | 23.03.2023| Sathana | Anzahl Punkte Zählen  |25 min|
 | 8.A  | 23.03.2023| Sathana | Highscore soll angezeigt werden | 20 min|
+| 8.C | 09.03.2023 | Joel | Map erstellen | 40 min|
 | 9  | 23.03.2023| Kilian |Verschiedene Skins programmieren | 30 min|
 | 9.A  | 23.03.2023| Kilian| Diese Skins auch im Spiel verwendbar machen  |20 min|
 | 10  | 23.03.2023| Alle | Neue Runde programmieren | 25 min|
+|
 
 
 
@@ -111,7 +113,9 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 09.03.2023 | Sathana | 30 min | 90 min|
+| 2  | 09.03.2023 | Joel | 20 | 90 min|
+| 8.C | 09.03.2023 | Joel | 40 | 90 min|
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
