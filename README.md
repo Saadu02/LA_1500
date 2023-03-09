@@ -94,6 +94,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 10  | 23.03.2023| Alle | Neue Runde programmieren | 25 min|
 
 
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
