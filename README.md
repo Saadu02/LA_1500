@@ -116,7 +116,11 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 | 1.A  | 09.03.2023 | Sathana | 30 min | 90 min|
 | 2  | 09.03.2023 | Joel | 20 min | 90 min|
 | 8.C | 09.03.2023 | Joel | 40 min | 90 min|
-| ...  |       |           |               |                   |
+| 3  | 16.03.2023 | Kilian/Joel | 20 min | 60 min|
+| 6 | 16.03.2023 | Joel | 35 min | 65 min |
+| 7 | 16.03.2023 | Sathana | 20 min | 60 min | 
+| 8 | 16.03.2023 | Sathana | 25 min | immer noch dran |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
