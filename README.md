@@ -83,7 +83,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 2  | 09.03.2023 | Joel | nur ein Turm Platzierung programmieren | 20 min|
 | 3  | 09.03.2023 | Joel | viele Türme Platzierung programmieren|20 min|
 | 4  | 09.03.2023| Alle | so programmieren das der Spieler nur Türme platzieren kann wenn er Energie hat.| 30 min|
-| 5   | 09.03.2023 | Alle | So Programmieren das es angezeigt wird, wenn Gegner angreifen. | 40 min|
+| 5   | 09.03.2023 | Alle | So Programmieren das es angezeigt wird, wenn Gegner kommen. | 40 min|
 | 6  | 16.03.2023 | Alle | Programmieren das die Türmer auf den Gegner fixiert sind| 35 min|
 | 6.A | 16.03.2023 | Joel |So Programmieren damit die Gegner auch sterben, wenn sie abgestossen werden| 25 min|
 | 7  | 23.03.2023 | Alle | Stopp/pause Symbol programmieren| 20 min|
@@ -119,6 +119,16 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 | 3  | 16.03.2023 | Kilian/Joel | 20 min | 65 min|
 | 6 | 16.03.2023 | Joel | 35 min | 65 min |
 | 7 | 16.03.2023 | Sathana | 20 min | 60 min | 
+| 1 | 17.03.2023 | Alle | 50 | 2 h |
+|1.B| - | Joel | 30 min | - |
+| 4 | 17.03.2023 | Alle | 30 min | - |
+| 5 | 17.03.2023 | Alle| 40 min| - |
+| 6.A | 17.03.2023 | Joel | 25 min| 40 min |
+| 8 | 17.03.2023 | Sathana | 25 min | - |
+| 8.A | 17.03,2023| Sathana | 20 min | - |
+| 9 | 17.03.2023 | Kilian | 30 min | - |
+| 9.A | 17.03.2023 | Kilian | 20 min | - |
+| 10  | 17.03.2023| Alle | 25 min| - |
 
 
 
