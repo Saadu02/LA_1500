@@ -167,3 +167,4 @@ Bei dem Resultat (-) heisst es, dass wir sie nicht programmiert haben. Aber man 
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Saadu02/LA1500 
