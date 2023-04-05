@@ -1,21 +1,22 @@
 # Projekt-Dokumentation
 
 
-## Tower defence. 
+## Tower Defence. 
 Gruppe Heliotrope
-Sathana Suganthasri, Joel Simon Juan.Haldimann und Kilian Adil.Staeuble
+Sathana Suganthasri, Joel Simon Juan. Haldimann und Kilian Adil. Staeuble
 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.02.2023| 0.0.1     |Entscheidung getroffen wie unsere Thema lautet. |
-|02.03.2023| 0.0.2  |Kapitel 1 bis 3 abgeschlossen|
+|23.02.2023| 0.0.1     |Entscheidung getroffen, wie unsere Thema lautet. |
+|02.03.2023| 0.0.2  |Kapitel 1 bis 3 abgeschlossen.|
+|30.03.2023| 0.0.3  | Projekt fertig erstellt und rest der Kapitel fertig ausgefüllt.|
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Tower defence: Stellverteidigung um deine Basis zu schützen. 
+Tower Defence: Stellverteidigung, um deine Basis zu schützen. 
 
 
 Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Spieler zu kommen und zu zerstören. Um das zu verhindern muss die Spieler sein Base verteidigen und im dem selben Zeit den Gegner töten. Die Spieler kann auswählen, wo er sein Tower platzieren kann. Er kann so viel Türme platzieren, wie er kann. Danach kann er bei dem Gegner zielen und abschiessen. Das alles Programmieren wir im Unity.
@@ -25,18 +26,18 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |muss|Qualität| Als ein Spieler möchte ich dass das Spiel sauber läuft, damit die erfahrung besser ist.|
-| 2  |muss|Funktional|Als ein Spieler möchte ich dass das spiel wenig bugs hat, damit das Spiel spielbar ist.|
-| 3  |muss|Funktional|Als ein Spieler möchte ich Towers fuktional plazieren können, damit das spiel nicht zu einfach oder zu schwer wird.|
-| 4  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das spiel spass macht.|
-| 5  |muss|Funktional|Als ein spieler möchte ich interessantes gameplay, damit ich ein grund habe, das Spiel zu spielen.|
+| 1    |muss|Qualität| Als ein Spieler möchte ich dass das Spiel sauber läuft, damit die Erfahrung besser ist.|
+| 2  |muss|Funktional|Als ein Spieler möchte ich dass das Spiel wenig Bugs hat, damit das Spiel spielbar ist.|
+| 3  |muss|Funktional|Als ein Spieler möchte ich Towers funktional platzieren können, damit das Spiel nicht zu einfach oder zu schwer wird.|
+| 4  |muss|Funktional|Als ein Spieler möchte ich herausgefordert werden, damit das Spiel Spass macht.|
+| 5  |muss|Funktional|Als ein Spieler möchte ich interessantes Gameplay, damit ich ein Grund habe, das Spiel zu spielen.|
 | 6  |muss|Qualität|Als ein Spieler möchte ich, dass meine Türme unterschiedlich aussehen, sodass ich sie unterscheiden kann.|
-| 7  |muss|Funktional|Als ein Spieler möchte ich das meine Tower präzise die gegner treffen, damit das spiel nicht unfair wird.|
+| 7  |muss|Funktional|Als ein Spieler möchte ich das meine Tower präzise die Gegner treffen, damit das Spiel nicht unfair wird.|
 | 8  |kann|Qualität|Als ein Spieler möchte ich dass das Spiel visuell schön aussieht, damit die Erfahrung besser ist.|
-| 9  |kann|Qualität|Als ein Spieler möchte ich das Spiel paussieren können, damit ich nicht gezwungen bin das spiel früh zu beenden.|
-| 10  |kann|Qualität|Als ein Spieler möchte ich am ende meines spieles mein High-Score sehen, damit ich weis wie gut ich war.|
-| 11 |kann|Fukional| Als ein Spieler moöchte ich verschiedene Schwierigkeiten aussuchen, damit das Spiel interesanter wirkt.|
-| 12 |kann|Qualität| Als Spieler möchte ich verschiedene Skins kaufen können, sodass es mehr abwechslung bei den Türmen gibt.|
+| 9  |kann|Qualität|Als ein Spieler möchte ich das Spiel pausieren können, damit ich nicht gezwungen bin das Spiel früh zu beenden.|
+| 10  |kann|Qualität|Als ein Spieler möchte ich am Ende meines Spieles mein High-Score sehen, damit ich weiss wie gut ich war.|
+| 11 |kann|Fukional| Als ein Spieler möchte ich verschiedene Schwierigkeiten aussuchen, damit das Spiel interessanter wirkt.|
+| 12 |kann|Qualität| Als Spieler möchte ich verschiedene Skins kaufen können, sodass es mehr Abwechslung bei den Türmen gibt.|
 | 13 |kann|Qualität| Als Spieler möchte ich am Ende des Spiels mit einer Ingame-Währung Belohnt werden|
 | 14 |kann|Qualität| Als Spieler möchte ich verschiedene Maps auswählen, weil so das Spiel vielseitiger ist.|
 | 15 |kann|Funktional| Als Spieler möchte ich, dass meine Türme langsam an Leben verlieren, sodass das Spiel interaktiver ist.|
@@ -51,7 +52,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 | 1.2  |Das Spiel wird gestartet| Spieler wählt Niveau aus| Das gewählte Niveau wird angezeigt und gespielt|
 | 2 |Spieler spielt weiter| Spieler platziert ein Turm| Spieler kann den Turm platzieren ohne Probleme|
 | 3  |Spieler spielt weiter| Spieler legt viele Türme |Die Türme müssen platziert sein.|
-| 4  |Spieler spielt weiter| Spieler plaziert türme abhängig von seiner Energie|spieler kann nicht weiter plazieren ohne genug Energie.|
+| 4  |Spieler spielt weiter| Spieler platziert türme abhängig von seiner Energie|spieler kann nicht weiter platzieren ohne genug Energie.|
 | 5  | Spiel ist bereit| Spieler ist jetzt bereit für die Gegner |das Spiel zeigt an, dass die Gegner jetzt angreifen werden. |
 | 6  | Gegner kommen| Die Türmer fixieren sich auf den Gegner und schiesst | Gegner sind Tot|
 | 7 | Spieler spielt weiter| Spieler drückt Stopp taste/Symbol| Das Spiel wird gestoppt|
@@ -141,18 +142,27 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1   | 05.04.2023 |OK  | Sathana |
+| 1.1| 05.04.2023 |OK |  Sathana |
+| 1.2| 05.04.2023 |  -    | Sathana |
+| 2  |   05.04.2023 |OK  | Sathana |
+| 3  |  05.04.2023  |OK  | Sathana |
+| 4  |  05.04.2023  |   -   | Sathana |
+| 5  |  05.04.2023  |OK  | Sathana |
+| 6  |  05.04.2023  |OK  | Sathana |
+| 7  |  05.04.2023  |OK  | Sathana |
+| 8  |  05.04.2023  |  -    | Sathana |
+| 8.1| 05.04.2023  |  -    | Sathana |
+| 8.2| 05.04.2023  |   -   | Sathana |
+| 9  |   05.04.2023  |OK  | Sathana |
+| 9.1|  05.04.2023  |OK  | Sathana |
+| 10 |  05.04.2023  |OK  | Sathana |
+
+Bei dem Resultat (-) heisst es, dass wir sie nicht programmiert haben. Aber man kann das Spiel trotzdem spielen, auch wenn das nicht verfügbar ist. Zeitlich reichten für uns die Erweiterungen zu programmieren. 
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
