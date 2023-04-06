@@ -98,7 +98,7 @@ Die Spieler muss seine Base beschützen. Die Gegner versucht die Base von den Sp
 
 
 
-Total: 
+Total: 440
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
@@ -116,11 +116,11 @@ Wir haben entschieden das wir im Unity programmieren. Der Spieler kann verschied
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 09.03.2023 | Sathana | 30 min | 90 min|
 | 2  | 09.03.2023 | Joel | 20 min | 90 min|
-| 8.C | 09.03.2023 | Joel | 40 min | 90 min|
+| 8.C | 09.03.2023 | Joel | 40 min | 80 min|
 | 3  | 16.03.2023 | Kilian/Joel | 20 min | 65 min|
-| 6 | 16.03.2023 | Joel | 35 min | 65 min |
+| 6 | 16.03.2023 | Joel | 35 min | 70 min |
 | 7 | 16.03.2023 | Sathana | 20 min | 60 min | 
-| 1 | 17.03.2023 | Alle | 50 | 2 h |
+| 1 | 17.03.2023 | Alle | 50 | 135 min |
 |1.B| - | Joel | 30 min | - |
 | 4 | 17.03.2023 | Alle | 30 min | - |
 | 5 | 17.03.2023 | Alle| 40 min| - |
