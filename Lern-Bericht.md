@@ -74,11 +74,14 @@ Im zweiten Code werden dann diese Positionen verwendet um die Gegner von Punkt z
 Im Video sieht man dann wie sich die Gegner (violette Kugeln) von Waypoint zu Waypoint bewegen (Waypoints türkis markiert) 
 
 
-## Reflexion zum Arbeitsprozess
+# Reflektion zum Arbeitsprozess
 
-Wir haben trotz anfägnlichen Schwierigkeiten ein speilbares Spiel programmiert.
+Die Aufgabenteilung war gut und jeder wusste, was sie machen mussten. 
 
-Es gab einige Motivationsunterschiede unter den Projektmitgliedern.
 
-VBV: Wir nehmen uns vor, dass alle Mitglieder, so gut wie sie können, möglichst viel zum Projekt beitragen.
+Als wir Online-Unterricht hatten, konnten wir unsere Projekt nicht zusammen fügen und hatten Mühe die Probleme herauszufinden. 
+
+**VBV**: Nächste Mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle an einem Ort treffen und den Projekt zusammenfügen. 
+
+
 
