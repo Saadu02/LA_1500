@@ -159,4 +159,4 @@ Bei dem Resultat (-) heisst es, dass wir sie nicht programmiert haben. Aber man 
 
 ## 6 Auswerten
 
-https://github.com/Saadu02/LA1500 
+https://github.com/Saadu02/LA_1500/blob/main/Lern-Bericht.md
