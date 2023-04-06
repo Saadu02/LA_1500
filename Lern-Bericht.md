@@ -41,7 +41,7 @@ public class Waypoints : MonoBehaviour
 
 ```
 
-###Code für Gegner
+### Code für Gegner
 ``` csharp
 void Start()
     {
@@ -63,6 +63,22 @@ void Start()
     }
 ```
 
-
 https://user-images.githubusercontent.com/111045600/230307677-7f5864e2-0f59-4dad-9fdd-e5bccde8bf0a.mp4
+
+##Verfikation
+
+In dem ersten Code sieht man wie die Positionen der Waypoints in einem Array gespeichert werden, das haben wir so gemacht, weil man sonst alle Waypoint individuell speichern müssste und es schnell zu lags kommen könnte.
+
+Im zweiten Code werden dann diese Positionen verwendet um die Gegner von Punkt zu Punkt zu bewegen, zuerst wird die erste Position abgerufen, dann wenn sich der Gegner bei dieser befindet, wird die Zweite abgerufen und so weiter. Die Geschwindigkeit muss mit der echten Zeit gerechnet werden, denn sonst wäre der Gegner bei vielen Frames schneller als bei Wenigen. 
+
+Im Video sieht man dann wie sich die Gegner (violette Kugeln) von Waypoint zu Waypoint bewegen (Waypoints türkis markiert) 
+
+
+## Reflexion zum Arbeitsprozess
+
+Wir haben trotz anfägnlichen Schwierigkeiten ein speilbares Spiel programmiert.
+
+Es gab einige Motivationsunterschiede unter den Projektmitgliedern.
+
+VBV: Wir nehmen uns vor, dass alle Mitglieder, so gut wie sie können, möglichst viel zum Projekt beitragen.
 
